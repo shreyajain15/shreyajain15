@@ -6,9 +6,9 @@ I'm really passionate about Engineering and Software especially when it comes to
 
 
 - 🔭 I’m currently working on: 
-    > Developing a Brain-Computer Interface that uses concentration signals
-    > Learning Assemebly language and its direct applications with C
-    > Working on creating 'CityExplorer', a Geographic Information System from sratch using C++, Ezgl and Glade
+    1.  Developing a Brain-Computer Interface that uses concentration signals.
+    2.  Learning Assemebly language and its direct applications with C.
+    3.  Working on creating 'CityExplorer', a Geographic Information System from sratch using C++, Ezgl and Glade.
     
 - 📫 How to reach me: shreyaajain4@gmail.com
 
