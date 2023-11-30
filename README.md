@@ -2,7 +2,7 @@
 
 I'm Shreya Jain, a third year computer engineering student at University of Toronto.
 
-I'm really passionate about Engineering and Software especially when it comes to the field of Biomedical Engineering. I love to problem solve and find creative ways to use machine learning to make a difference!
+I'm really passionate about Engineering and Software especially when it comes to the field of Biomedical Engineering. I love to problem solve and find creative ways to use Machine Learning to make a difference!
 
 
 - 🔭 I’m currently working on: 
