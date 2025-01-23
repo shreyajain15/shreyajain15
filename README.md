@@ -14,7 +14,7 @@ I'm really passionate about Engineering and Software especially when it comes to
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I have the world's cutest dog Shiro.
+- ⚡ Fun fact: I have the world's cutest dog, Shiro.
 
 <!--
 
